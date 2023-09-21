@@ -1,0 +1,69 @@
+h1 {
+ text-align: center;
+   color: rgb(23, 0, 151);
+}
+
+img {
+   display: flex;
+}
+
+p {
+    font-size: 150%;
+    font-weight: 300;
+    padding: 5%;
+
+}
+ 
+html {
+    background-color: rgb(158, 158, 158);
+}
+
+
+table{
+    border: solid 2px rgb(0, 0, 0)
+  
+
+
+
+
+}
+
+
+
+table tr th{
+
+    border: dashed    2px rgb(0, 10, 147) ;
+    background-color: rgba(79, 11, 198, 0.331);
+
+
+
+
+}
+
+
+
+
+
+table tr td {
+    border: dashed 2px rgb(9, 56, 0) ;
+background-color: rgb(92, 92, 92); 
+}
+
+h4 {
+ text-align: center;
+ font-size: 25px
+
+}
+
+th {
+    font-size: 25px;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+#inputtag {
+    padding: 1%;
+}
