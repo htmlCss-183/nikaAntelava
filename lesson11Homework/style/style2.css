@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+.text1 p::first-letter{
+    color: red;
+    font-size: 40px;
+   
+  
+}
+
+
+.text1 {
+    font-family: 'Alfa Slab One', serif;
+}
+
+body {
+    background-color: #E0CE99;
+}
+
+.text2 {
+    display: flex;
+    padding-left: 35%;
+}
+
+.video {
+    padding-left: 25%;
+}
