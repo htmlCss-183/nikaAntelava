@@ -1,6 +1,6 @@
 @font-face {
     font-family:arial_geo ;
-    src: url(/fonts/dm-archium.ttf);
+    src: url(/nikaAntelava/FinalProject/fonts/dm-archium.ttf);
 }
 *{
     font-family: arial_geo;
@@ -327,7 +327,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(/image2/510993-wine.jpg);
+    background:url(/nikaAntelava/FinalProject/image2/510993-wine.jpg);
     background-size: cover;
     background-position: center;
     animation: slidee 20s infinite;
@@ -336,15 +336,15 @@ section{
 
 @keyframes slidee{
     25%{
-        background:url(/image2/6028781-glass-grapes-red-black-background-bottle-wine.jpg) ;
+        background:url(/nikaAntelava/FinalProject/image2/6028781-glass-grapes-red-black-background-bottle-wine.jpg) ;
     }
 
     50%{
-        background:url(/image2/6028781-glass-grapes-red-black-background-bottle-wine.jpg)
+        background:url(/nikaAntelava/FinalProject/image2/6028781-glass-grapes-red-black-background-bottle-wine.jpg)
     }
 
     75%{
-        background:url(/image2/346176412_272591448672574_1526293640296306621_n.jpg);
+        background:url(/nikaAntelava/FinalProject/image2/346176412_272591448672574_1526293640296306621_n.jpg);
     }
 
     
@@ -387,21 +387,21 @@ section{
 }
 .header{
     
-    background:url(/image/Copy_of_Red_Wine_Blog_Post_Header.png) ;
+    background:url(/nikaAntelava/FinalProject/image/Copy_of_Red_Wine_Blog_Post_Header.png) ;
     animation: slide 20s infinite;
 }
  
 @keyframes slide{
     25%{
-        background:url(/image/510993-wine.jpg) ;
+        background:url(/nikaAntelava/FinalProject/image/510993-wine.jpg) ;
     }
 
     50%{
-        background:url(/image/glass-background-wine-red-wallpaper-preview.jpg)
+        background:url(/nikaAntelava/FinalProject/image/glass-background-wine-red-wallpaper-preview.jpg)
     }
 
     75%{
-        background:url(/image/depositphotos_40022203-stock-photo-red-wine.jpg);
+        background:url(/nikaAntelava/FinalProject/image/depositphotos_40022203-stock-photo-red-wine.jpg);
     }
 
 
